@@ -1,0 +1,13 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files \"*.html, *.css, *.js\""
+  },
+  "keywords": [],
+  "author": "Iddar Olivares <iddar@dbug.mx> (https://medium.com/@iddar)",
+  "license": "ISC"
+}
