@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Iddar Olivares <iddar@dbug.mx> (https://medium.com/@iddar)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.0"
+  }
 }
