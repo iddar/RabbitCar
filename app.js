@@ -37,9 +37,9 @@ class RabbitCar {
   }
 
   preload () {
-    this.game.load.spritesheet('car', '/car.png', 32, 32, 8)
-    // this.game.load.spritesheet('ground', '/ground.png', 32, 32, 8)
-    game.load.atlasJSONHash('ground', '/ground.png', '/ground.json')
+    this.game.load.spritesheet('car', 'car.png', 32, 32, 8)
+    // this.game.load.spritesheet('ground', 'ground.png', 32, 32, 8)
+    game.load.atlasJSONHash('ground', 'ground.png', 'ground.json')
   }
 
   create () {
